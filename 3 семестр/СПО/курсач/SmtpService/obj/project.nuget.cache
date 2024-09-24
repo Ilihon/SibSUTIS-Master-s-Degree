@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QNozMT2sIpXfgSP4rGmulTLs0y9mid0/sBzQqi/WqOKy0kejg7lEojL20Xrzsq7MyQ6y0IzWf26Iqw0HCOllDg==",
+  "success": true,
+  "projectFilePath": "D:\\personal\\учеба\\Магистратура\\3 семестр\\СПО\\курсач\\SmtpService\\SmtpService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ilihon\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Ilihon\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Ilihon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Ilihon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+g++ server.cpp -o server
+./server 3
+
+g++ client.cpp -o client
+./client 3 127.0.0.1 36471

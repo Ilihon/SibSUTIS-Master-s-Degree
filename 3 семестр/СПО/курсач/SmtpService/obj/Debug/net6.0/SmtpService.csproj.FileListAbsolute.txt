@@ -1,0 +1,17 @@
+D:\personal\учеба\Магистратура\3 семестр\СПО\курсач\SmtpService\bin\Debug\net6.0\SmtpService.exe
+D:\personal\учеба\Магистратура\3 семестр\СПО\курсач\SmtpService\bin\Debug\net6.0\file1.pdf
+D:\personal\учеба\Магистратура\3 семестр\СПО\курсач\SmtpService\bin\Debug\net6.0\SmtpService.deps.json
+D:\personal\учеба\Магистратура\3 семестр\СПО\курсач\SmtpService\bin\Debug\net6.0\SmtpService.runtimeconfig.json
+D:\personal\учеба\Магистратура\3 семестр\СПО\курсач\SmtpService\bin\Debug\net6.0\SmtpService.dll
+D:\personal\учеба\Магистратура\3 семестр\СПО\курсач\SmtpService\bin\Debug\net6.0\SmtpService.pdb
+D:\personal\учеба\Магистратура\3 семестр\СПО\курсач\SmtpService\obj\Debug\net6.0\SmtpService.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal\учеба\Магистратура\3 семестр\СПО\курсач\SmtpService\obj\Debug\net6.0\SmtpService.AssemblyInfoInputs.cache
+D:\personal\учеба\Магистратура\3 семестр\СПО\курсач\SmtpService\obj\Debug\net6.0\SmtpService.AssemblyInfo.cs
+D:\personal\учеба\Магистратура\3 семестр\СПО\курсач\SmtpService\obj\Debug\net6.0\SmtpService.csproj.CoreCompileInputs.cache
+D:\personal\учеба\Магистратура\3 семестр\СПО\курсач\SmtpService\obj\Debug\net6.0\SmtpService.dll
+D:\personal\учеба\Магистратура\3 семестр\СПО\курсач\SmtpService\obj\Debug\net6.0\refint\SmtpService.dll
+D:\personal\учеба\Магистратура\3 семестр\СПО\курсач\SmtpService\obj\Debug\net6.0\SmtpService.pdb
+D:\personal\учеба\Магистратура\3 семестр\СПО\курсач\SmtpService\obj\Debug\net6.0\SmtpService.genruntimeconfig.cache
+D:\personal\учеба\Магистратура\3 семестр\СПО\курсач\SmtpService\obj\Debug\net6.0\ref\SmtpService.dll
+D:\personal\учеба\Магистратура\3 семестр\СПО\курсач\SmtpService\bin\Debug\net6.0\file2.rar
+D:\personal\учеба\Магистратура\3 семестр\СПО\курсач\SmtpService\bin\Debug\net6.0\file3.jpg

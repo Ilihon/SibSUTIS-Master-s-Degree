@@ -1,0 +1,14 @@
+﻿  adhoc.cpp
+  bench1.cpp
+  bench2.cpp
+  datatest.cpp
+  dlltest.cpp
+  fipsalgt.cpp
+  regtest.cpp
+  test.cpp
+  validat1.cpp
+  validat2.cpp
+  validat3.cpp
+  Создание кода...
+  cryptest.vcxproj -> E:\cryptopp565\Win32\Output\Debug\cryptest.exe
+  cryptest.vcxproj -> Win32\Output\Debug\\cryptlib.pdb (Full PDB)

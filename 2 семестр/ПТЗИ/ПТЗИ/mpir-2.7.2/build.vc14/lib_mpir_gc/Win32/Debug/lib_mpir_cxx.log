@@ -1,0 +1,14 @@
+﻿  dummy.cc
+  isfuns.cc
+  ismpf.cc
+  ismpq.cc
+  ismpz.cc
+  ismpznw.cc
+  osdoprnti.cc
+  osfuns.cc
+  osmpf.cc
+  osmpq.cc
+  osmpz.cc
+  Создание кода...
+  lib_mpir_cxx.vcxproj -> E:\10 семестр\mpir-2.7.2\build.vc14\lib_mpir_cxx\Win32\Debug\mpirxx.lib
+  copying outputs from "lib_mpir_cxx\Win32\Debug\" to "..\lib\Win32\Debug\"

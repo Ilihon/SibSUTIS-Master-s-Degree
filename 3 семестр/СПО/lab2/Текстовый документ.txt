@@ -1,0 +1,5 @@
+gсс server.cpp -o server
+./server
+
+gсс client.cpp -o client
+./client 127.0.0.1 39973 1

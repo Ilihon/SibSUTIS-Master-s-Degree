@@ -1,0 +1,62 @@
+import math
+
+eps = pow(10, -6)
+print(eps)
+# phi = (1 + math.sqrt(5)) / 2
+# phi = 2 + (math.sqrt(5) + 1) / 2 # делим на phi
+# phi = 2 - (math.sqrt(5) + 1) / 2 # умножаем на phi
+phi = (3 * math.sqrt(5)) / 2  # делим на phi
+print(phi)
+
+
+def func(x, y):
+    # print(x, y)
+    return (x * x) - (6 * x) + (y * y) - (8 * y)
+    # return (x * x) - (6 * x) + 2 * (y * y) - (8 * y)
+    # return pow((x - y * y), 2) + pow((x - 2), 2)
+
+
+def Ternar(x):
+    l = 0
+    r = 10
+    while abs(r - l) > eps:
+        t1 = l + (r - l) / phi
+        t2 = r - (r - l) / phi
+        if func(x, t1) < func(x, t2):
+            r = t2
+        else:
+            l = t1
+    return (l+r)/2
+
+
+x = 0
+y = 10
+
+x_result = 0
+y_result = 0
+
+t1 = x + (y - x) / phi
+t2 = y - (y - x) / phi
+y_result1 = Ternar(t1)
+y_result2 = Ternar(t2)
+t = 0
+while abs(y - x) > eps:
+
+    if func(t1, y_result1) <= func(t2, y_result2):
+        y = t2
+        y_result = y_result2
+        t1 = x + (y - x) / phi
+        t2 = y - (y - x) / phi
+        y_result2 = Ternar(t2)
+    else:
+        x = t1
+        y_result = y_result1
+        t1 = x + (y - x) / phi
+        t2 = y - (y - x) / phi
+        y_result1 = Ternar(t1)
+
+
+x_result = (x+y)/2
+
+print(f'result: x {x_result}, y {y_result}')
+print(func(x_result, y_result))

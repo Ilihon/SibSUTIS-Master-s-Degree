@@ -1,0 +1,45 @@
+﻿Сборка начата 25.12.2015 19:59:53.
+     1>Проект "C:\Users\npuMa94\Desktop\Защита информации\Crypto\Crypto\Crypto.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Crypto.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Crypto.cpp
+         Crypto.cpp
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\head1.h(107): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\head1.h(178): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\head1.h(179): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\head1.h(180): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+     1>c:\users\npuma94\desktop\защита информации\crypto\cryptopp562\algparam.h(277): warning C4297: CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase: ожидается, что функция не будет выдавать исключения, но она это делает
+         c:\users\npuma94\desktop\защита информации\crypto\cryptopp562\algparam.h(277): note: деструктор или метод отмены выделения имеет (возможно, неявно) спецификацию, не предусматривающую создание исключений
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.h(179): warning C4244: =: преобразование "__int64" в "char", возможна потеря данных
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.h(217): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.h(209): warning C4101: tmp: неиспользованная локальная переменная
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.h(322): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.h(317): warning C4101: m: неиспользованная локальная переменная
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.h(317): warning C4101: c: неиспользованная локальная переменная
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.h(384): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.h(407): warning C4244: =: преобразование "__int64" в "unsigned char", возможна потеря данных
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.h(409): warning C4244: =: преобразование "__int64" в "unsigned char", возможна потеря данных
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.h(372): warning C4101: m: неиспользованная локальная переменная
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.h(466): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.h(505): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.h(510): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.h(517): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.h(522): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.h(526): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.h(528): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.h(532): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.h(607): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.h(619): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.h(624): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.h(629): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.h(831): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.h(832): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\npuma94\desktop\защита информации\crypto\crypto\crypto.cpp(14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\npuMa94\Desktop\Защита информации\Crypto\Debug\Crypto.exe" /INCREMENTAL /NOLOGO "C:\Users\npuMa94\Desktop\Защита информации\Crypto\cryptopp562\Win32\Output\Debug\cryptlib.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\npuMa94\Desktop\Защита информации\Crypto\Debug\Crypto.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\npuMa94\Desktop\Защита информации\Crypto\Debug\Crypto.lib" /MACHINE:X86 Debug\Crypto.obj
+         Debug\stdafx.obj
+         Crypto.vcxproj -> C:\Users\npuMa94\Desktop\Защита информации\Crypto\Debug\Crypto.exe
+     1>Сборка проекта "C:\Users\npuMa94\Desktop\Защита информации\Crypto\Crypto\Crypto.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:03.36
